@@ -1,0 +1,33 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "json"
+  ],
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "snippets.ultisnips.pythonPrompt": false,
+  "hover.floatConfig": {
+    "border": true,
+    "maxWidth": 100,
+    "maxHeight": 25
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue"
+  ],
+  "eslint.enable": true,
+  "eslint.packageManager": "yarn",
+  "eslint.autoFixOnSave": true,
+  "eslint.run": "onType",
+  "diagnostic.displayByAle": false,
+  "typescript.preferences.includePackageJsonAutoImports": "auto",
+  "typescript.surveys.enabled": false
+}
