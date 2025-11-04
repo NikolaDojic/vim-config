@@ -26,6 +26,7 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' }
 Plug 'jceb/vim-orgmode'
 
 Plug 'pangloss/vim-javascript'
+Plug 'HerringtonDarkholme/yats.vim'
 Plug 'maxmellon/vim-jsx-pretty'
 Plug 'styled-components/vim-styled-components'
 
@@ -42,3 +43,5 @@ Plug 'tpope/vim-rake'
 Plug 'tpope/vim-endwise'
 Plug 'vim-test/vim-test'
 Plug 'dense-analysis/ale'
+Plug 'sindrets/diffview.nvim'
+
